@@ -1,8 +1,8 @@
-package com.oakdev.notificacao_email.business;
+package com.oakdev.notificacao.business;
 
 
-import com.oakdev.notificacao_email.business.dto.TarefasDTO;
-import com.oakdev.notificacao_email.infrastructure.exceptions.EmailException;
+import com.oakdev.notificacao.business.dto.TarefasDTO;
+import com.oakdev.notificacao.infrastructure.exceptions.EmailException;
 import jakarta.mail.MessagingException;
 import jakarta.mail.internet.InternetAddress;
 import jakarta.mail.internet.MimeMessage;

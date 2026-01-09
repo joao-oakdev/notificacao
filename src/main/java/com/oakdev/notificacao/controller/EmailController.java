@@ -1,7 +1,7 @@
-package com.oakdev.notificacao_email.controller;
+package com.oakdev.notificacao.controller;
 
-import com.oakdev.notificacao_email.business.EmailService;
-import com.oakdev.notificacao_email.business.dto.TarefasDTO;
+import com.oakdev.notificacao.business.EmailService;
+import com.oakdev.notificacao.business.dto.TarefasDTO;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;

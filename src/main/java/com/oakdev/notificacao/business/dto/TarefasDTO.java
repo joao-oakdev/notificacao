@@ -1,7 +1,7 @@
 package com.oakdev.notificacao.business.dto;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
-import com.oakdev.notificacao_email.infrastructure.enums.StatusNotificacaoEnum;
+import com.oakdev.notificacao.infrastructure.enums.StatusNotificacaoEnum;
 import lombok.*;
 
 import java.time.LocalDateTime;

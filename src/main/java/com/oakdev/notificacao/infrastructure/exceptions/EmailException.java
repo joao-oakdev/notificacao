@@ -1,4 +1,4 @@
-package com.oakdev.notificacao_email.infrastructure.exceptions;
+package com.oakdev.notificacao.infrastructure.exceptions;
 
 public class EmailException extends RuntimeException {
     public EmailException(String message) {
