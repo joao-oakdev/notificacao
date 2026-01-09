@@ -1,4 +1,4 @@
-package com.oakdev.notificacao_email.business.dto;
+package com.oakdev.notificacao.business.dto;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.oakdev.notificacao_email.infrastructure.enums.StatusNotificacaoEnum;
