@@ -24,7 +24,7 @@ spring:
 
 envio:
   email:
-    remetente: ryuzindadz7@gmail.com
+    remetente:
     nomeRemetente: 'Ryuzinho'
 
 server:
